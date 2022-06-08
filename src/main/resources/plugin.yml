@@ -1,0 +1,7 @@
+name: TutorialPlugin
+version: '${project.version}'
+main: io.github.hibixby.tutorialplugin.TutorialPlugin
+api-version: 1.18
+authors: [ hibixby ]
+description: 설명
+website: https://hibixby.github.io
