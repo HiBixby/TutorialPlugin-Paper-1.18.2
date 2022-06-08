@@ -5,3 +5,9 @@ api-version: 1.18
 authors: [ hibixby ]
 description: 설명
 website: https://hibixby.github.io
+
+commands:
+  test:
+    description: 테스트 명령어 입니다.
+    usage: /테스트 /test /시험 중 하나를 입력하면 작동합니다.
+    aliases: [테스트,시험]
